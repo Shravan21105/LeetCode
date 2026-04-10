@@ -17,10 +17,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Shravan21105/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shravan21105/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shravan21105/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shravan21105/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shravan21105/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## String
+|  |
+| ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shravan21105/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
