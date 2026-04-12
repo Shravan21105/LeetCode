@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shravan21105/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Design
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shravan21105/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->
