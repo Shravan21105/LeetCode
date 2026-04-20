@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shravan21105/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Shravan21105/LeetCode/tree/master/0053-maximum-subarray) |
 | [0874-walking-robot-simulation](https://github.com/Shravan21105/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shravan21105/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shravan21105/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shravan21105/LeetCode/tree/master/0053-maximum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shravan21105/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shravan21105/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## String
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shravan21105/LeetCode/tree/master/0053-maximum-subarray) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Shravan21105/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 ## Sorting
