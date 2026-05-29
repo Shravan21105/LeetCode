@@ -188,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shravan21105/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Shravan21105/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
