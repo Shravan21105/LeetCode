@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shravan21105/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shravan21105/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shravan21105/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Shravan21105/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shravan21105/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shravan21105/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Shravan21105/LeetCode/tree/master/0396-rotate-function) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Shravan21105/LeetCode/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/Shravan21105/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shravan21105/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shravan21105/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
