@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Shravan21105/LeetCode/tree/master/0087-scramble-string) |
 | [0796-rotate-string](https://github.com/Shravan21105/LeetCode/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shravan21105/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shravan21105/LeetCode/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/Shravan21105/LeetCode/tree/master/0087-scramble-string) |
 | [0396-rotate-function](https://github.com/Shravan21105/LeetCode/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Shravan21105/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
