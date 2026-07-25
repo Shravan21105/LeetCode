@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shravan21105/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shravan21105/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shravan21105/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shravan21105/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shravan21105/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shravan21105/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -232,14 +233,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shravan21105/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shravan21105/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shravan21105/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shravan21105/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shravan21105/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shravan21105/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shravan21105/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shravan21105/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shravan21105/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shravan21105/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
