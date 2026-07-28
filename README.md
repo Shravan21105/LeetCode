@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Shravan21105/LeetCode/tree/master/0176-second-highest-salary) |
+| [1193-monthly-transactions-i](https://github.com/Shravan21105/LeetCode/tree/master/1193-monthly-transactions-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
