@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Shravan21105/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Shravan21105/LeetCode/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Shravan21105/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Shravan21105/LeetCode/tree/master/0877-stone-game) |
 | [1345-jump-game-iv](https://github.com/Shravan21105/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shravan21105/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shravan21105/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Shravan21105/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Shravan21105/LeetCode/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shravan21105/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/Shravan21105/LeetCode/tree/master/0877-stone-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shravan21105/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shravan21105/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shravan21105/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Shravan21105/LeetCode/tree/master/0087-scramble-string) |
 | [0396-rotate-function](https://github.com/Shravan21105/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Shravan21105/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shravan21105/LeetCode/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Shravan21105/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shravan21105/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shravan21105/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shravan21105/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
