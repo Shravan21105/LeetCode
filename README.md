@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Shravan21105/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shravan21105/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shravan21105/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shravan21105/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shravan21105/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shravan21105/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shravan21105/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shravan21105/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shravan21105/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shravan21105/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shravan21105/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Shravan21105/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shravan21105/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shravan21105/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shravan21105/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shravan21105/LeetCode/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shravan21105/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
