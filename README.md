@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shravan21105/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shravan21105/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shravan21105/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shravan21105/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shravan21105/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Shravan21105/LeetCode/tree/master/1861-rotating-the-box) |
 | [2029-stone-game-ix](https://github.com/Shravan21105/LeetCode/tree/master/2029-stone-game-ix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shravan21105/LeetCode/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/Shravan21105/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/Shravan21105/LeetCode/tree/master/1345-jump-game-iv) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shravan21105/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/Shravan21105/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shravan21105/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shravan21105/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Shravan21105/LeetCode/tree/master/0087-scramble-string) |
 | [0796-rotate-string](https://github.com/Shravan21105/LeetCode/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shravan21105/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shravan21105/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shravan21105/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shravan21105/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
