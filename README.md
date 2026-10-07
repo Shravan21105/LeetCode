@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Shravan21105/LeetCode/tree/master/0087-scramble-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Shravan21105/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0796-rotate-string](https://github.com/Shravan21105/LeetCode/tree/master/0796-rotate-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shravan21105/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shravan21105/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shravan21105/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shravan21105/LeetCode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Shravan21105/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1345-jump-game-iv](https://github.com/Shravan21105/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shravan21105/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shravan21105/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shravan21105/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shravan21105/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
